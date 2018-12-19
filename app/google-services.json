@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1061732172590",
+    "firebase_url": "https://protorype-8212b.firebaseio.com",
+    "project_id": "protorype-8212b",
+    "storage_bucket": "protorype-8212b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061732172590:android:96340e9aacbb55f3",
+        "android_client_info": {
+          "package_name": "com.dev.fi.firecast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061732172590-l7uml7u1egijaaqku3f5o7t8bk78f26u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev.fi.firecast",
+            "certificate_hash": "7ac0dab0e564ca0742113566bb9153b6c71d259b"
+          }
+        },
+        {
+          "client_id": "1061732172590-pgnqg1e9q7tssvoj72ifikdq51ukuuqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdrRvemcW347XxHhZ0Kygu9HeQcvsv6c0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061732172590-pgnqg1e9q7tssvoj72ifikdq51ukuuqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
